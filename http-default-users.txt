@@ -1,0 +1,9 @@
+admin
+administrator
+manager
+root
+guest
+security
+user
+system
+sys
