@@ -1,3 +1,2 @@
 # mycustomwordlists
-
-My Custom Wordlists
+Wordlists used in penetration tests.
