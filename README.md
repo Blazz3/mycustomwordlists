@@ -1,2 +1,2 @@
 # mycustomwordlists
-Wordlists used in penetration tests.
+Wordlists used in webapp/webservices penetration testing.
